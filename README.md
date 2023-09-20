@@ -1,3 +1,2 @@
 # Python
-(Pequenos) Projetos em Python
-Automações, banco de dados, segurança da informação e Inteligência Artificial.
+Automações, banco de dados, segurança da informação, Data Science e Inteligência Artificial. Tudo usando Python ou Jupyter.
